@@ -1,4 +1,4 @@
-# amazon-austin-pmaports
+# amazon-austin-pmaports postmarketos
 Working ebuild for installing postmarketos on the Amazon Fire 7 HD (2017) codename Austin
 
 Amazon Fire 7 (2017) postmarketOS
