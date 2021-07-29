@@ -33,5 +33,5 @@ You tell me
 Special options:
 *Must be flashed to USERDATA partition as system partition is too small
 
-msm-fb-refresher must be installed when building rootfs for the display to refresh
+msm-fb-refresher packaged is added to the depends to make the screen refresh.
 After flashing the device must be booted into recovery once. From the recovery it is to be powered off and booted and then as normal. This is because the device depends on the AMONET exploit which is applied by twrp after every flash.
